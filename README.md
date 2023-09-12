@@ -1,5 +1,5 @@
 # Hotel-Management-System-Using-Python
-hotel-management-system-using-sql-and-python
+Hotel-management-system-using-sql-and-python
 Hotel Management System
 The Hotel Management System is a Python-based application built using the Tkinter library for GUI. It provides a user-friendly interface for managing hotel-related tasks such as customer details, room bookings, and room information.
 
